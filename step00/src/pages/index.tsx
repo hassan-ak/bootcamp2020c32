@@ -1,18 +1,15 @@
 import React from 'react';
 import { Link, navigate } from "gatsby";
 import Header from '../components/Header';
+import Layout from '../components/Layout';
 
 export default function home() {
   return (
-  <div> 
-    <Header text="This is a heading" subtext="The is the sub heading"></Header>
-    Hello world from Hassan ali Khan
-    <br/>
-    <Link to="/about/">About</Link>
-    <br/>
-    <button onClick={()=>{
-      navigate('/about')
-    }}>About Page with button</button>
-  </div>
-  )
+    <div>
+        <Layout>
+            <Header text="This is a heading" subtext="The is the sub heading"></Header>
+            <p>This is my home page</p>
+        </Layout>
+    </div>
+);
 }

@@ -1,12 +1,12 @@
-import { Link } from 'gatsby'
-import React from 'react'
+import React from 'react';
+import Layout from '../components/Layout';
 
-export default function about() {
-  return (
-    <div> 
-        About Page
-        <br/>
-        <Link to="/">Back to Home page</Link>
-    </div>
-  )
+export default () => {
+    return (
+        <div>
+            <Layout> 
+                <p>This is About Page </p>
+            </Layout>
+        </div>
+    );
 }
