@@ -1,13 +1,14 @@
 import React from 'react';
-import { Link } from "gatsby";
 import Header from '../components/Header';
+import Layout from '../components/Layout';
 
 export default function home() {
   return (
-  <div> 
-      <Header text="This is a heading" subtext="The is the sub heading"></Header>
-      <p>We can link pages in Gatsby by using Link</p>
-      <Link to="/about/">About</Link>
-  </div>
+    <div>
+      <Layout>
+        <Header text="This is a heading" subtext="The is the sub heading"></Header>
+        <p>This is my home page</p>
+      </Layout>
+    </div>
   )
 }
