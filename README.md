@@ -28,3 +28,8 @@ External Links
 ## Step02 Sub Components
 External Links
 - [Read this Tutorial](https://www.gatsbyjs.com/docs/tutorial/part-one/)
+
+## Step03 Layout Components
+External Links
+- [Read this Tutorial](https://www.gatsbyjs.com/docs/tutorial/part-one/)
+- [and this](https://www.gatsbyjs.com/docs/how-to/routing/layout-components/)
