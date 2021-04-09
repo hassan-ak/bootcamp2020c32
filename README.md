@@ -24,3 +24,7 @@ External Links
 ## Step01 Page Components Linking
 External Links
 - [Read this Tutorial](https://www.gatsbyjs.com/docs/tutorial/part-one/)
+
+## Step02 Sub Components
+External Links
+- [Read this Tutorial](https://www.gatsbyjs.com/docs/tutorial/part-one/)
