@@ -20,3 +20,7 @@ External Links
 - [Read TypeScript Plugin Docs](https://www.gatsbyjs.org/packages/gatsby-plugin-typescript/)
 - [Read this Tutorial](https://www.gatsbyjs.org/tutorial/part-one/)
 - [Learn more about recipes](https://www.gatsbyjs.org/docs/recipes/)
+
+## Step01 Page Components Linking
+External Links
+- [Read this Tutorial](https://www.gatsbyjs.com/docs/tutorial/part-one/)
