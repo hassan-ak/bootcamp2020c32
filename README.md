@@ -33,3 +33,11 @@ External Links
 External Links
 - [Read this Tutorial](https://www.gatsbyjs.com/docs/tutorial/part-one/)
 - [and this](https://www.gatsbyjs.com/docs/how-to/routing/layout-components/)
+
+## Step04 Global Styles
+External Links
+- [Introduction to Styling in Gatsby](https://www.gatsbyjs.com/docs/tutorial/part-two/)
+- [Learn more about Gatsby Browser APIs](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-browser/)
+- Steps#
+  - Create global.css in src/styles directory
+  - Create gatsby-browser.js and import the css file
