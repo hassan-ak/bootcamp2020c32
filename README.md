@@ -49,3 +49,9 @@ External Links
 - Steps
   - Create desc.module.css in pages directory
   - Create desc.tsx component page and import the css file
+
+## Online Lectures
+- [Link1](https://www.youtube.com/watch?v=UP3-m4QigN4&ab_channel=PanacloudServerlessSaaSTraining)
+- [Link2](https://www.facebook.com/zeeshanhanif/videos/10224565563991447/)
+- [Link3](https://www.youtube.com/watch?v=r-G-i5spHGg&ab_channel=PanacloudServerlessSaaSTraininginUrdu)
+- [Link4](https://www.facebook.com/zeeshanhanif/videos/10224572927375527)
