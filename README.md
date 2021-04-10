@@ -38,6 +38,14 @@ External Links
 External Links
 - [Introduction to Styling in Gatsby](https://www.gatsbyjs.com/docs/tutorial/part-two/)
 - [Learn more about Gatsby Browser APIs](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-browser/)
-- Steps#
+- Steps
   - Create global.css in src/styles directory
   - Create gatsby-browser.js and import the css file
+
+## Step05 Component Scoped CSS
+External Links
+- [What are CSS Modules?](https://css-tricks.com/css-modules-part-1-need/)
+- [Using component-scoped CSS](https://www.gatsbyjs.com/docs/tutorial/part-two/#using-component-scoped-css)
+- Steps
+  - Create desc.module.css in pages directory
+  - Create desc.tsx component page and import the css file
